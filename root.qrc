@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/skin">
+        <file>logo.ico</file>
+    </qresource>
+</RCC>

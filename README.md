@@ -1,5 +1,5 @@
 # 简介
-* 这是一款基于Qt5实现的跨平台屏幕分辨率获取小工具，主要用于学习不同平台获取屏幕分辨率的几种方法，其中包括Windows平台的GetSystemMetrics()方法、Linux平台的XDisplay()方法，以及Qt的QApplication::desktop()->screenGeometry()方法。
+* 这是一款基于Qt5实现的跨平台屏幕分辨率检测小工具，其中包括Windows平台的GetSystemMetrics()方法、Linux平台的XDisplay()方法，以及Qt的QApplication::desktop()->screenGeometry()方法。
 * 软件代码已经尽量简化。
 ### 运行效果：
 
